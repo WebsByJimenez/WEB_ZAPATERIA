@@ -53,6 +53,6 @@ El repositorio mantiene una arquitectura de carpetas limpia y estándar:
 Autor
 WebsByJimenez
 
-[🔗 Haz clic aquí para ver la aplicación en vivo](https://websbyjimenez.github.io/WEB_ZAPATERIA/)
+https://websbyjimenez.github.io/WEB_ZAPATERIA/
 
 ```
